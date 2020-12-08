@@ -2,4 +2,4 @@
 weather_api_key = "2649d7dfa36e6279c8344cb8e7936564"
 
 # Google API Key
-g_key = "YOUR KEY HERE!"
+g_key = "AIzaSyDac3p3AjTlrvybuUKWWzSqdDsd2N_FffY"
